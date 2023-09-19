@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-admin-dashboard/static/css/main.f13f3295.css",
-    "main.js": "/react-admin-dashboard/static/js/main.82895ed7.js",
+    "main.js": "/react-admin-dashboard/static/js/main.a96da1e1.js",
     "static/media/logo.svg": "/react-admin-dashboard/static/media/logo.07fbcf98124d4ba87d0179f3f126ef36.svg",
     "static/media/settings.svg": "/react-admin-dashboard/static/media/settings.57b717e71af464d7d1d1297ba180f61e.svg",
     "static/media/view.svg": "/react-admin-dashboard/static/media/view.0b083dd2dc4719847a1db3b80d2cd9ba.svg",
@@ -12,10 +12,10 @@
     "static/media/app.svg": "/react-admin-dashboard/static/media/app.b27be86d7bdc769e7dd552b83f592801.svg",
     "static/media/search.svg": "/react-admin-dashboard/static/media/search.f891af0600a1c803b90a82e0f9016cce.svg",
     "main.f13f3295.css.map": "/react-admin-dashboard/static/css/main.f13f3295.css.map",
-    "main.82895ed7.js.map": "/react-admin-dashboard/static/js/main.82895ed7.js.map"
+    "main.a96da1e1.js.map": "/react-admin-dashboard/static/js/main.a96da1e1.js.map"
   },
   "entrypoints": [
     "static/css/main.f13f3295.css",
-    "static/js/main.82895ed7.js"
+    "static/js/main.a96da1e1.js"
   ]
 }
