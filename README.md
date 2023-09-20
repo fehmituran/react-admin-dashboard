@@ -1,12 +1,12 @@
 # Photo Gallery
-![](https://github.com/fehmituran/goit-js-hw-11/blob/main/src/img/photogallery.gif)
+![](https://github.com/fehmituran/goit-js-hw-11/blob/main/src/img/reactAdminDashboard.gif)
 
 
-Photo gallery was created using pagination from Pixabay api service.
+Responsive React Admin Panel UI Design
 
 ## Links
 
-- [Photo Gallery](https://fehmituran.github.io/goit-js-hw-11/)
+- [Admin Dashboard](https://fehmituran.github.io/React-Admin-Dashboard)
 
 ## Installation
 
@@ -23,16 +23,17 @@ npm start
 
 ## :computer: Built with
 
-- [parcel-project-template](https://github.com/goitacademy/parcel-project-template)
+- [react-homework-template](https://github.com/goitacademy/react-homework-template)
 - [Javascript](https://javascript.info/)
-- [Pixabay api](https://pixabay.com/api/docs/)
+- [React](https://react.dev/learn)
 
 
 ## :computer: Npm Packages
 
-- [Axios](https://axios-http.com/)
-- [Notiflix](https://github.com/notiflix/Notiflix#readme)
-- [SimpleLightbox](https://simplelightbox.com/)
+- [MUI X](https://mui.com/x/react-data-grid/getting-started/)
+- [Recharts](https://recharts.org/en-US/guide/installation)
+- [Sass](https://sass-lang.com/install/)
+
 
 ## :writing_hand: Authors
 
