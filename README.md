@@ -2,6 +2,10 @@
 ![](https://github.com/fehmituran/react-admin-dashboard/blob/main/src/img/reactAdminDashboard.gif)
 
 
+![](https://github.com/fehmituran/react-admin-dashboard/blob/main/src/img/adminDashboard1.PNG)
+![](https://github.com/fehmituran/react-admin-dashboard/blob/main/src/img/adminDashboard2.PNG)
+
+
 Responsive React Admin Panel UI Design
 
 ## Links
