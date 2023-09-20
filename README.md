@@ -6,7 +6,7 @@ Responsive React Admin Panel UI Design
 
 ## Links
 
-- [Admin Dashboard](https://fehmituran.github.io/React-Admin-Dashboard)
+- [Admin Dashboard](https://fehmituran.github.io/react-admin-dashboard/)
 
 ## Installation
 
