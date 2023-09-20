@@ -1,5 +1,5 @@
 # Photo Gallery
-![](https://github.com/fehmituran/goit-js-hw-11/blob/main/src/img/reactAdminDashboard.gif)
+![](https://github.com/fehmituran/react-admin-dashboard/blob/main/src/img/reactAdminDashboard.gif)
 
 
 Responsive React Admin Panel UI Design
