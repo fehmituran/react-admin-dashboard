@@ -1,4 +1,4 @@
-# Photo Gallery
+# React Admin Dashboard
 ![](https://github.com/fehmituran/react-admin-dashboard/blob/main/src/img/reactAdminDashboard.gif)
 
 
